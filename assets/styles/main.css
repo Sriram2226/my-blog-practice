@@ -1,4 +1,13 @@
-body {
+.subscribe-button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  .subscribe-button:hover {
+    background-color: #0056b3;
+  }
+  body {
     background-color: #121212;
     color: #f1f1f1;
   }
