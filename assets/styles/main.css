@@ -1,3 +1,12 @@
+
+body {
+    background-color: #121212;
+    color: #f1f1f1;
+  }
+  
+  a {
+    color: #bb86fc;
+  }
 .subscribe-button {
     background-color: #007BFF;
     color: white;
@@ -7,15 +16,3 @@
   .subscribe-button:hover {
     background-color: #0056b3;
   }
-  body {
-    background-color: #121212;
-    color: #f1f1f1;
-  }
-  
-  a {
-    color: #bb86fc;
-  }
-  header {
-    margin-bottom: 20px;
-  }
-  
